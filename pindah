@@ -3,6 +3,7 @@
 
 #EXTINF:0, group-title="Entertainment",STAR PLUS
 #EXTINF:0, group-title="Entertainment",STAR PLUS HD
+http://216.144.250.174/Star_Plus_HD/tracks-v1a1/index.m3u8
 
 #EXTINF:0, group-title="Entertainment",ZEE TV
 http://cshms3.airtel.tv/PLTV/88888888/224/3221225878/index.m3u8
@@ -20,6 +21,7 @@ http://cshms4.airtel.tv/wh7f454c46tw1375599167_1532996093/PLTV/88888888/224/3221
 #EXTINF:0, group-title="Entertainment",LIFE OK HD
 #EXTINF:0, group-title="Entertainment",COLORS
 #EXTINF:0, group-title="Entertainment",COLORS HD
+#EXTINF:0, group-title="Entertainment",AIRTEL ENTERTAINMENT HOME
 
 #EXTINF:0, group-title="Entertainment",&TV
 http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226048/index.m3u8
@@ -168,7 +170,8 @@ http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/322122
 #EXTINF:0, group-title="Movies",STAR UTSAV MOVIES
 #EXTINF:0, group-title="Movies",VAA MOVIES
 #EXTINF:0, group-title="Movies",SKYSTAR MOVIES
-#
+#EXTINF:0, group-title="Movies",MANODRANJAN TV
+http://mhms5.airtel.tv/PLTV/88888888/224/3221226227/index.m3u8
 #EXTINF:0, group-title="Movies",MAHA MOVIES
 
 
@@ -197,10 +200,6 @@ http://yipcontent-lh.akamaihd.net/i/sonymoviechannel_1@569927/index_1080_av-p.m3
 #EXTINF:0, group-title="Movies",MOVIES NOW HD
 #EXTINF:0, group-title="Movies",ROMEDY NOW
 #EXTINF:0, group-title="Movies",ROMEDY NOW HD
-
-#EXTINF:0, group-title="Movies",& PRIVE HD
-https://z5ams.akamaized.net/andprivehd/tracks-v2a1/index.m3u8
-
 #EXTINF:0, group-title="Movies",ZEE STUDIO
 #EXTINF:0, group-title="Movies",ZEE STUDIO HD
 #EXTINF:0, group-title="Movies",WB
@@ -273,7 +272,10 @@ http://cshms3.airtel.tv/PLTV/88888888/224/3221226392/index.m3u8
 http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226346/index.m3u8
 
 #EXTINF:0, group-title="Sports",STAR SPORTS SELECT 1 HD
+
 #EXTINF:0, group-title="Sports",STAR SPORTS SELECT 2 HD
+http://216.144.250.174/Star_Sport_HD_o2/index.m3u8
+
 #EXTINF:0, group-title="Sports",TRUE SPORTS
 #EXTINF:0, group-title="Sports",STAR SPORTS FIRST
 
@@ -426,7 +428,7 @@ https://timeslive.live-s.cdn.bitgravity.com/cdn-live/_definst_/timeslive/live/et
 http://cshms3.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221225781/index.m3u8
 
 #EXTINF:0, group-title="News",BLOOMBERG
-http://cdn.asianetmobiletvplus.online/channels/1b87225c734b0a934e9ce33ffc53c9ce.smil/index.m3u8
+http://bloomtv.live-s.cdn.bitgravity.com/cdn-live-b5/_definst_/bloomtv/live/feed01/playlist.m3u8
 
 #EXTINF:0, group-title="News",BTVI
 http://cshms4.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226009/index.m3u8
@@ -557,6 +559,27 @@ https://z5ams.akamaized.net/pogo/tracks-v1a1/index.m3u8
 http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225775/index.m3u8
 
 #EXTINF:0, group-title="Kids",DISNEY JUNIOR
+
+#EXTINF:0, group-title="Kids",KIDS CHANNEL
+http://wowza60.indostreamserver.com:1935/kids/live/playlist.m3u8
+
+#EXTINF:0, group-title="Kids",BIZNET KIDS
+http://livestream.biznetvideo.net/biznet_kids/_definst_/stream_kids/playlist.m3u8?tokenbiznetlivestarttime=0&tokenbiznetliveendtime=0&tokenbiznetliveCustomParameter=myParameter&tokenbiznetlivehash=KtBR4kNKKiprUBcuDy5kEENEVkzkgFgMsEfSlNamPqjnP-SC3OrXMAISH4ip6xvz
+
+#EXTINF:0, group-title="Kids",TOONMAX TV
+http://rr2.dens.tv/s/s37/index2.m3u8
+http://210.210.155.35/session/8e0d5f98-3773-11e8-8c5f-c81f66f89318/qwr9ew/s/s37/index2.m3u8
+
+#EXTINF:0, group-title="Kids",Da Vinci
+http://rr.dens.tv/h/h01/index2.m3u8
+http://210.210.155.35/session/48fad06a-3774-11e8-b67b-c81f66f89318/uq2663/h/h01/index2.m3u8
+
+#EXTINF:0, group-title="Kids",MY KIDS
+http://rr2.dens.tv/s/s30/index2.m3u8
+http://210.210.155.35/session/1ff8a2b0-350c-11e8-bb60-c81f66f89318/uq2663/s/s30/index2.m3u8
+
+#EXTINF:0, group-title="Kids",Duck TV
+http://82.119.96.66:1935/ducktv/DuckTV_720p/playlist.m3u8
 
 #EXTINF:0, group-title="Kids",BABY TV
 
@@ -853,7 +876,7 @@ http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/322122
 http://cshms3.airtel.tv/PLTV/88888888/224/3221226524/index.m3u8
 
 #EXTINF:0, group-title="Tamil",STAR VIJAY
-http://216.144.250.174/Star_Vijay_hD/tracks-v1a1/mono.m3u8
+http://216.144.250.174/Star_Vijay_hD/tracks-v1a1/index.m3u8
 
 #EXTINF:0, group-title="Tamil",VIJAY HD
 
@@ -1002,15 +1025,13 @@ http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/32212
 #EXTINF:0, group-title="Malayalam",KAIRALI TV
 http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226093/index.m3u8
 
-#EXTINF:0, group-title="Malayalam",JAIHIND TV
-http://cdn.asianetmobiletvplus.com/channels/jaihindtv_zyawlevutjmgcqjuvdllxdrnbpfwegxs_hls/jaihindtv_zyawlevutjmgcqjuvdllxdrnbpfwegxs_master.m3u8
+#EXTINF:0, group-title="Malayalam",JAI HIND TV
 
 #EXTINF:0, group-title="Malayalam",ASIANET MOVIES
 
 #EXTINF:0, group-title="Malayalam",NAPTOL MALAYALAM
 
 #EXTINF:0, group-title="Malayalam",ASIANET PLUS
-http://cdn.asianetmobiletvplus.com/channels/7eb4dc1f3240c8eb776d41b95bd1d197.smil/index.m3u8
 
 #EXTINF:0, group-title="Malayalam",AMRITA
 http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226310/index.m3u8
@@ -1022,10 +1043,8 @@ http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/322122
 http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226301/index.m3u8
 
 #EXTINF:0, group-title="Malayalam",HARVEST TV
-http://live.wmncdn.net/harvesttvlive1/bbb19eae240ec100af921d511efc86a0.sdp/playlist.m3u8
 
 #EXTINF:0, group-title="Malayalam",POWERVISION INDIA
-http://cdn.asianetmobiletvplus.online/channels/powervision_feplsuzwbrdbzuvlclqpbmasjiaesfor_hls/powervision_feplsuzwbrdbzuvlclqpbmasjiaesfor_master.m3u8
 
 #EXTINF:0, group-title="Malayalam",SURYA MUSIC
 http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226526/index.m3u8
@@ -1046,7 +1065,6 @@ http://cshms3.airtel.tv/PLTV/88888888/224/3221226405/index.m3u8
 http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226368/index.m3u8
 
 #EXTINF:0, group-title="Malayalam",MANORAMA NEWS
-http://cdn.asianetmobiletvplus.online/channels/manoramanews_khujpzhfjosnncdyhwyhlgmgycndlucl/index.m3u8
 
 #EXTINF:0, group-title="Malayalam",ASIANET NEWS
 http://asianetcdn.vidgyor.com/asianet-origin/liveabr/playlist.m3u8
